@@ -1,6 +1,8 @@
 ---
 ID: 1448
-post_title: 'Shepherd High School Announcements for Friday, May 19, 2017:'
+post_title: >
+  Shepherd High School Announcements for
+  Friday, May 19, 2017
 author: Jon Morgan
 post_date: 2017-05-20 21:09:44
 post_excerpt: ""
