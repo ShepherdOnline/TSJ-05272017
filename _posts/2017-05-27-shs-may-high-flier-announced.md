@@ -30,7 +30,11 @@ top_term:
   - "108"
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+medium_post:
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 ---
-&nbsp;
-
-Congratulations to Heather Wolf for being nominated as the May High Flier. Heather was nominated by our tech guru Mr. Corey Grim.
+<p><img src="http://www.shepherdhistory.org/wp-content/uploads/2017/05/images2Fmayhighflier.jpg" width="160" height="160" alt="images/mayhighflier.jpg" title=""></p>
+<p>Congratulations to Heather Wolf for being nominated as the May High Flier. Heather was nominated by our tech guru Mr. Corey Grim.</p>
+<p></p>
+<p><hr></p>
+<p><a href="https://docs.google.com/document/d/1UjQImuMMz4xXeviE1lWMF9EWj-KTvt10XPDaKMP4a-c/edit?usp=sharing">Edit Document</a></p>
