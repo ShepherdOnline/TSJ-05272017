@@ -1,6 +1,6 @@
 ---
 ID: 1690
-post_title: 'The Shepherd Journal &#8211; 06-07-2017'
+post_title: The Shepherd Journal, Issue 001
 author: Jon Morgan
 post_date: 2017-06-07 03:54:58
 post_excerpt: ""
@@ -30,11 +30,13 @@ top_term:
   - "40"
 featured-image-display:
   - 'false'
+medium_post:
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
 <em>June 6, 2017</em>
-<h3>Get Well Soon, Amber</h3>
+<h4>Get Well Soon, Amber</h4>
 The community has been closely following the story of Amber Smith’s recovery via social media. The latest from Amber’s family via <a href="https://www.facebook.com/jgross811/posts/10155046112803445">Jay Gross</a>:
 
 “Hi Jay it’s Sarah, Amber’s aunt. Roxanne asked me to update you guys with some absolutely wonderful news…
@@ -45,7 +47,7 @@ A support page has been created for <a href="https://www.facebook.com/Smith4901/
 
 <hr />
 
-<h3>Shepherd Middle School Graduation</h3>
+<h4>Shepherd Middle School Graduation</h4>
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/images2F100_2162jpg.txt.jpeg" alt="images/100_2162jpg.txt" width="160" height="160" />
 
 On Monday, I watched an impressive group of students wrap up the eighth grade with an award ceremony. The choir sang, the band played, and plenty of awards were handed out. As I listened to the names being called off, I thought about how much work it takes to complete three years of middle school, and how these same students would be beginning a new chapter in their lives next year when they attended the high school as freshmen.
@@ -54,8 +56,8 @@ On Monday, I watched an impressive group of students wrap up the eighth grade wi
 
 <hr />
 
-<h3>Shepherd High School Graduation Class of 2017</h3>
-Here is the footage shot by Jay Gross:
+<h4>Shepherd High School Graduation Class of 2017</h4>
+Here is the <a href="https://www.facebook.com/jgross811/videos/10155038698393445/">video </a>shot by Jay Gross:
 
 https://www.facebook.com/jgross811/videos/10155038698393445/
 
