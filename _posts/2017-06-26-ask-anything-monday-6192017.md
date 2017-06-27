@@ -22,6 +22,6 @@ To obtain your TIP permit, follow the steps below:
  	<li><a href="http://www.michigan.gov/sos/0,4670,7-127-1627_46351_46426-167444--,00.html">Schedule and pass rider skills test</a>.</li>
  	<li>Take skills test certificate to branch to obtain CY endorsement $9.00 (additional license fees may apply).</li>
 </ol>
-<b>Q: Are golf carts and 4 wheelers allowed to drive on the roads?</b>
+<strong>Q: Are golf carts and 4 wheelers allowed to drive on the roads?</strong>
 
 Yes and no. There are certain requirements that must be met first. There are also certain roads that such vehicles are not allowed on, such as Wright Avenue. See the ORV ordinance posted on the village website <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.villageofshepherd.org%2F&amp;h=ATOMJy8nC2j7GZz3bMllZ8U5stum0cL_587qVVkHYLb35IiIyRospRcwxyhVF3U2BR-ZOUgaO0hqg2p1XKm_UEUvtPSf7guVz9c67L1FQUE2s_Aj5-ZQmfL56B7bwDzcq2i2-dmg">www.villageofshepherd.org</a>.
